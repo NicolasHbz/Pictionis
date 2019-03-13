@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PictIonis</string>
+    <string name="title_home">Parties</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="join">Join</string>
+    <string name="create">Create</string>
+</resources>
